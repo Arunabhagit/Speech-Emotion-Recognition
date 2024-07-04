@@ -1,2 +1,3 @@
 
-[Speech Emotion Recognition (PPT).pdf](https://github.com/user-attachments/files/16093496/Speech.Emotion.Recognition.PPT.pdf)
+
+[SER  Project Report (Final).pdf](https://github.com/user-attachments/files/16093499/SER.Project.Report.Final.pdf)
