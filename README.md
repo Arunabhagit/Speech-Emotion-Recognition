@@ -6,5 +6,4 @@
 ![Screenshot 2024-07-04 105743](https://github.com/Arunabhagit/Speech-Emotion-Recognition/assets/149260480/0f614a2a-2967-4545-853a-97366eca86f8)
 
 ![Screenshot 2024-07-04 105857](https://github.com/Arunabhagit/Speech-Emotion-Recognition/assets/149260480/b8cf6178-b782-442b-8401-470307594c6d)
-
 ![Screenshot 2024-07-04 105957](https://github.com/Arunabhagit/Speech-Emotion-Recognition/assets/149260480/2771d22e-2ad2-4ff4-9359-e933c09bb30d)
